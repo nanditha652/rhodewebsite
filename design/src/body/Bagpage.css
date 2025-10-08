@@ -1,0 +1,24 @@
+.movebtn{
+  color: rgb(104, 104, 104);
+  margin-left: 10px;
+  background-color: white;
+  border-color: black;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-radius: 10px;
+  border: 2px solid;
+  margin-bottom: 20px;
+  font-weight: bold;
+  width: 98%;
+}
+/* .incbtn{
+  margin-right: 20px;
+} */
+ .dicbtn{
+  border-radius: 5px;
+  margin-right: 5px;
+ }
+ .inbtn{
+  border-radius: 5px;
+  margin-left: 5px;
+ }

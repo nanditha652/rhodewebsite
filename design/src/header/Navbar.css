@@ -1,0 +1,33 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f2f1ee;
+  padding: 15px 50px;
+}
+
+.nav-left, .nav-right {
+  display: flex;
+  gap: 30px;
+}
+
+.nav-left span, .nav-right span {
+  color: #555;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer; /* optional for hover effect */
+}
+
+.logo{
+  color: #555;
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: none;
+  margin-right: 50px;
+}
+a{
+  text-decoration: none;
+}

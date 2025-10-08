@@ -1,0 +1,56 @@
+.card{
+  width: 300px;
+  margin-bottom: 50px;
+  border-radius: 30px;
+  border: solid 2px #f2f1ee;
+  margin-top: 10px;
+  
+}
+.card-title{
+  margin-left: 15px;
+  margin-top: -30px;
+  color: rgb(92, 92, 92);
+  
+}
+.card-text{
+  margin-left: 15px;
+  color: rgb(92, 92, 92);
+}
+
+.productrow{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.contanier{
+  margin-left: 40px;
+  margin-top: 50px;
+
+}
+.col1{
+  margin-bottom: 70px;
+  
+}
+.btn{
+  color: rgb(104, 104, 104);
+  margin-left: 5px;
+  background-color: white;
+  border-color: black;
+  /* padding-left: 100px;
+  padding-right: 100px; */
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-radius: 10px;
+  border: 2px solid;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  font-weight: bold;
+  width: 98%;
+  white-space: nowrap;
+}
+.btn:hover{
+  background-color: white;
+  color: rgb(49, 49, 49);
+  border-color: rgb(180, 180, 180);
+}
